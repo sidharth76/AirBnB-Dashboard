@@ -111,7 +111,7 @@ Ensure your data source includes the following columns:
 
 Have questions or suggestions? Feel free to open an issue or reach out:
 
-- GitHub: [@AryanSharma0883](https://github.com/AryanSharma0883)
+- GitHub: [@Sidharth76](https://github.com/sidharth76)
 
 ---
 
